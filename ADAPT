@@ -34,13 +34,6 @@ deploy/packages/pack-<project>.cmake:
 
 
 --------------------------------------------------------------------
-In subdirectory "./source/" do:
-
-[ ] Rename template-version.h -> <project>-version.h
---------------------------------------------------------------------
-
-
---------------------------------------------------------------------
 In subdirectory "./source/examples/fibcmd" do:
 
 source/fibcmd/main.cpp:
